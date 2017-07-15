@@ -1,0 +1,19 @@
+CODE:
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+int main() {
+        int b;
+        long c;
+        char d;
+        float e;
+        double f;
+        cin>>b>>c>>d>>e>>f;
+        cout<<b<<"\n";
+        cout<<c<<"\n";
+        cout<<d<<"\n";
+        cout<<e<<"\n";
+        cout<<f;
+    return 0;
+}
